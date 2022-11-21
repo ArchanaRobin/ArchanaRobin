@@ -1,4 +1,4 @@
-# ArchanaRobin
+# Archana Robin
  
 Data Scientist with a demonstrated history in investment banking, trading analysis, and problem-solving skills. Strong analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. Skilled in solving Mathematical, Statistical problems, developing predictive models, and machine-learning algorithms. Experienced in Python, SQL, Machine Learning, Data Analytics, and Data Visualization techniques. Aspiring Data Scientist professional with a master’s degree focused on Mathematics and Statistics.
 
