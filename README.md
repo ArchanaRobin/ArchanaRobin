@@ -18,3 +18,7 @@ Technical Skills:
 • Tools: APIs, MS Office, Jupyter Notebook, Visual Studio Code
 
 • Data Science Methods: Mining, Wrangling, Modelling, Predictive Analysis, Visualization, Storytelling
+
+### Linkedin : https://www.linkedin.com/in/archana-robin/
+
+### Resume : [Archana_Resume.pdf](https://github.com/ArchanaRobin/ArchanaRobin/files/10051238/Archana_Resume.pdf)
