@@ -4,7 +4,7 @@ Data Scientist with a demonstrated history in investment banking, trading analys
 
 ## Technical Skills:
 
-• Machine Learning: Regression, classification, Predictive Data Modeling, clustering, feature engineering
+• Machine Learning: Regression, classification, Predictive Data Modeling, clustering, feature engineering, Natural Language Processing, Time Series analysis, and Deep Learning
 
 • Statistics: Quantitative and Qualitative Analysis - Linear/Logistic Regression, time series, Classification, 
  Clustering, Decision Tree, Random Forest, hypothesis testing, Probability, Bayesian Inference.
