@@ -20,4 +20,5 @@ Data Scientist with a demonstrated history in investment banking, trading analys
 
 ### Linkedin : https://www.linkedin.com/in/archana-robin/
 
-### Resume : [Archana_Resume.pdf](https://github.com/ArchanaRobin/ArchanaRobin/files/10051238/Archana_Resume.pdf)
+
+### [Resume Archana-2024.pdf](https://github.com/user-attachments/files/17591251/Resume.Archana-2024.pdf)
